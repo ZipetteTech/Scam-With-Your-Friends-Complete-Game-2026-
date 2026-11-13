@@ -10,6 +10,18 @@
 
 DOWNLOAD Scam With Your Friends : https://mega.nz/file/0IlwCRiB#NyAu8DwbI7fsVCjzeqIuWhu7-yUQLhPcdeE-teKuAd4
 
+Fir play : Launch the game via "Scam With Your Friends.exe"
+
+⚠️ Only the game host should follow this tutorial ⚠️
+
+1. Create an account at https://openrouter.ai;
+2. Go to the dashboard and click on "API keys";
+3. Click on "New Key", enter a name, set the expiration date and other settings, then click "Create";
+4. In the game, go to "Settings" -> "Host";
+5. Select "OpenRouter" under "AI Backend";
+6. Enter the API key you created in the designated field;
+7. Choose a free model ("FREE") ...
+
 
 Welcome to the **Scam With Your Friends Guide**, an independent resource dedicated to exploring one of the most chaotic AI-powered multiplayer simulation games of 2026.
 
