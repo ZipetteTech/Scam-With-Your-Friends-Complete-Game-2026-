@@ -1,4 +1,4 @@
-# Scam With Your Friends – Complete Game Guide, Gameplay, Features & Updates (2026)
+ # Scam With Your Friends – Complete Game
 
 <img width="1920" height="1080" alt="ss_d7676d89d64b88d0c817009cbb08afed3cfbf8b6 1920x1080" src="https://github.com/user-attachments/assets/5f986691-26e2-4a3f-8a2d-79ff703d66ac" />
 
